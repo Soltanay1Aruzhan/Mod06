@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod06prac\Bankomat\bin\Debug\Bankomat.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod06prac\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod06prac\Bankomat\obj\Debug\Bankomat.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod06prac\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod06prac\Bankomat\obj\Debug\Bankomat.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod06prac\Bankomat\obj\Debug\Bankomat.pdb
